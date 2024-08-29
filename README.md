@@ -1,18 +1,18 @@
-# Projeto de Lógica de Programação em JavaScript
+# JavaScript Programming Logic Project
 
-Este projeto visa praticar e aprimorar habilidades de lógica de programação usando a linguagem JavaScript. Ele inclui diversos exercícios e exemplos que cobrem variáveis, tipos de dados, estruturas de controle, funções, manipulação de arrays e manipulação de arquivos.
+This project aims to practice and enhance programming logic skills using JavaScript. It includes various exercises and examples covering variables, data types, control structures, functions, array manipulation, and file handling.
 
-## Índice
+## Table of Contents
 
-- [Sobre](#sobre)
+- [About](#about)
 
-## Sobre
+## About
 
-O objetivo deste projeto é fornecer uma série de exercícios práticos para iniciantes em programação, utilizando JavaScript como linguagem principal. Os exercícios são projetados para cobrir os conceitos básicos e avançados de lógica de programação, com foco em:
+The goal of this project is to provide a series of practical exercises for beginners in programming, using JavaScript as the primary language. The exercises are designed to cover both basic and advanced concepts of programming logic, focusing on:
 
-- Declaração e uso de variáveis.
-- Manipulação de diferentes tipos de dados.
-- Estruturas de controle (if/else, loops).
-- Funções e escopo.
-- Arrays e suas operações.
-- Manipulação de arquivos (leitura/escrita).
+- Declaring and using variables.
+- Manipulating different data types.
+- Control structures (if/else, loops).
+- Functions and scope.
+- Arrays and their operations.
+- File handling (reading/writing).
